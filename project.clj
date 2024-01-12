@@ -1,6 +1,6 @@
 (defproject metro "0.0.1-SNAPSHOT"
   :description "FIXME: write description"
-  :url "https://github.com/tbsschroeder/clojure-webshop-app"
+  :url "https://github.com/Ramesh2Ramesh/Webshop-app"
   :license {:name "MIT"
             :url "https://opensouArce.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.10.1"]
